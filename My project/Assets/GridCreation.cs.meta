@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a0efd0d30dd04244a1c1b1c880ff8f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Road: {instanceID: 0}
+  - grid: {instanceID: 0}
+  - building: {instanceID: 0}
+  - Border: {fileID: 1326497888199276634, guid: fb64c1cc653cd7247ab9da689e9c38f5, type: 3}
+  - Coordinate: {fileID: 1326497888199276634, guid: fb64c1cc653cd7247ab9da689e9c38f5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
